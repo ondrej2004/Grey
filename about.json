@@ -13,10 +13,10 @@
   "color_schemes": {
     "Grey": {
       "primary": "FFFFFF",
-      "secondary": "454545",
+      "secondary": "383838",
       "tertiary": "0088CC",
       "quaternary": "E45735",
-      "header_background": "747474",
+      "header_background": "545454",
       "header_primary": "FFFFFF",
       "highlight": "88CCF2",
       "danger": "FF0000",
