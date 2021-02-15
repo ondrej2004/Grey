@@ -28,3 +28,14 @@
     display: none; // hide the topic OP date
   }
 }
+
+/*Nav Pills*/
+
+.nav-pills>li>a:hover {
+    color: #FFFFFF;
+    background-color: #003C59;
+    border-top-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+    border-top-left-radius: 1px;
+    border-bottom-right-radius: 1px;
+}
